@@ -101,6 +101,5 @@ public class Main {
     public static void MapForest() {
         // develop the game in what the person were doing in forest?  like haunting and eating etc.....
 
-
     }
 }
